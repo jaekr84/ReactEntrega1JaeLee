@@ -1,9 +1,9 @@
 import React from 'react'
 import { BsBagHeartFill } from "react-icons/bs";
-
+import './CarWidget'
 const CarWidget = () => {
     return (
-        <button ClassName="container">
+        <button ClassName="cart">
             <BsBagHeartFill />
         </button>
     )

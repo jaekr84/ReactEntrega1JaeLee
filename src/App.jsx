@@ -1,9 +1,8 @@
 import './App.css'
-import Product from './Product'
-import NavBar from './Components/NavBar/NavBar'
-import ItemListContainer from './Components/ItemListContainer/ItemListContainer'
-import Contador from './Contador'
-
+import Product from '../src/Product'
+import NavBar from '../src/Components/NavBar/NavBar'
+import ItemListContainer from '../src/Components/ItemListContainer/ItemListContainer'
+import Contador from '../src/Contador'
 
 function App() {
 
